@@ -6,6 +6,12 @@ This repository simply contains branding info for our network.
 Please note, everything in this repo is licensed under a 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). ![Creative Commons License logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
+---
+
+Our logos are derivatives of the official Python logo. More information on how their assets are licensed can be found on [their trademarks page](https://www.python.org/psf/trademarks/).
+
+---
+
 If you'd like to link to us, one possible description you could use is below:
 
 > **Python**
