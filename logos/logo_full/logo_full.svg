@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="logo_circle.svg"
+   sodipodi:docname="logo_full.svg"
    inkscape:export-filename="/home/jeremiah/Pictures/Vectors/pythondiscord-logo.svg.png"
    inkscape:export-xdpi="270.42343"
    inkscape:export-ydpi="270.42343">
@@ -1005,7 +1005,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="285.70269"
+     inkscape:cx="305.70269"
      inkscape:cy="275.62701"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1038,13 +1038,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-11.658899,-6.6740327)">
-    <ellipse
+    <rect
        style="opacity:1;fill:#7289da;fill-opacity:1;stroke:none;stroke-width:2.92799997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path1051"
-       cx="88.917229"
-       cy="83.932358"
-       rx="77.258331"
-       ry="77.258324" />
+       id="rect3885"
+       width="154.51666"
+       height="154.51666"
+       x="11.658899"
+       y="6.6740327" />
   </g>
   <g
      inkscape:groupmode="layer"
