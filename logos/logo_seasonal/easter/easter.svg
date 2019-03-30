@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 438 438"
+   version="1.1"
+   viewBox="0 0 438 438"
+   xml:space="preserve"
+   id="svg6016"
+   sodipodi:docname="easter.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/scragly/Github/PyDisBranding/logos/logo_seasonal/easter/easter.png"
+   inkscape:export-xdpi="219.17999"
+   inkscape:export-ydpi="219.17999"><defs
+   id="defs6020" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="3440"
+   inkscape:window-height="1409"
+   id="namedview6018"
+   showgrid="false"
+   inkscape:zoom="2.7579909"
+   inkscape:cx="219"
+   inkscape:cy="219"
+   inkscape:window-x="2560"
+   inkscape:window-y="31"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg6016" /><metadata
+   id="metadata6004"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+<style
+   type="text/css"
+   id="style6006">
+	.st0{fill:#7289DA;}
+	.st1{fill:#5B6DAE;}
+	.st2{fill:#CAD6FF;}
+	.st3{fill:#FFFFFF;}
+</style>
+<rect
+   class="st0"
+   width="438"
+   height="438"
+   fill="#7289d9"
+   id="rect6008"
+   inkscape:label="background"
+   style="fill:#857ca5;fill-opacity:1" /><path
+   d="m283.1 68-11.506 3.3086c-12.223-1.8051-24.757-2.5971-36.895-2.5078-13.5 0.1-26.498 1.1992-37.898 3.1992-3.6998 0.6516-7.0474 1.386-10.107 2.1992h-35.893v18.801h4.5v7.6992h2.7832c-0.63936 3.7142-0.88476 7.7997-0.88476 12.301v4h-15.398l-2.2012 11 17.6 15.014v0.0859h79.201v10h-108.9c-23 0-43.2 13.8-49.5 40-7.3 30-7.6 48.801 0 80.201 0.49734 2.0782 1.0605 4.0985 1.6836 6.0625l-1.1836 10.438 13.346 11.549c7.032 7.5103 16.371 11.951 28.254 11.951h27.201v-36c0-26 22.6-49 49.5-49h79.199c22 0 39.6-18.102 39.6-40.102v-75.199c0-12.9-6.5819-23.831-16.516-31.273zm76.801 77.6-14.301 7.4004h-20.1v35.1c0 27.2-23.1 50-49.5 50h-79.1c-21.7 0-39.6 18.5-39.6 40.1v75.102c0 21.4 18.7 34 39.6 40.1 25.1 7.3 49.1 8.7 79.1 0 19.9-5.7 39.6-17.3 39.6-40.1v-30.102h-0.11914l-11.721-10h51.439c23 0 31.602-16 39.602-40 8.3-24.7 7.9-48.499 0-80.199-3.6226-14.491-9.3525-26.71-18.947-33.699zm-123.4 167.6h57.5v10h-57.5z"
+   id="path6010"
+   inkscape:label="shadow"
+   fill-opacity=".20554"
+   style="fill:#000000;fill-opacity:0.20392157" /><path
+   class="st2"
+   d="m217 53.7c-13.5 0.1-26.5 1.2-37.9 3.2-33.5 5.9-39.6 18.2-39.6 41v30.1h79.2v10h-108.9c-23 0-43.2 13.8-49.5 40-7.3 30-7.6 48.8 0 80.2 5.6 23.4 19.1 40 42.1 40h27.2v-36c0-26 22.6-49 49.5-49h79.1c22 0 39.6-18.1 39.6-40.1v-75.2c0-21.4-18.1-37.4-39.6-41-13.5-2.3-27.6-3.3-41.2-3.2zm-42.8 24.2c8.2 0 14.9 6.8 14.9 15.1s-6.7 15-14.9 15-14.9-6.7-14.9-15c0-8.4 6.7-15.1 14.9-15.1z"
+   id="path6012"
+   inkscape:label="upper_snake"
+   fill="#cbd6ff"
+   style="fill:#e9acac;fill-opacity:1" /><path
+   class="st3"
+   d="m307.8 138v35c0 27.2-23.1 50-49.5 50h-79.1c-21.7 0-39.6 18.5-39.6 40.1v75.1c0 21.4 18.7 34 39.6 40.1 25.1 7.3 49.1 8.7 79.1 0 19.9-5.7 39.6-17.3 39.6-40.1v-30.1h-79.1v-10h118.7c23 0 31.6-16 39.6-40 8.3-24.7 7.9-48.5 0-80.2-5.7-22.8-16.6-40-39.6-40h-29.7zm-44.5 190.2c8.2 0 14.9 6.7 14.9 15s-6.7 15.1-14.9 15.1-14.9-6.8-14.9-15.1 6.7-15 14.9-15z"
+   id="path6014"
+   inkscape:label="lower_snake"
+   fill="#fff"
+   style="fill:#f0ec6a;fill-opacity:1" /></svg>
