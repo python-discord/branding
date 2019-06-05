@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg
 	version="1.1"
-	id="logo_pride"
+	id="logo_trigender"
 	xmlns:cc="http://creativecommons.org/ns#"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,13 +14,12 @@
 	style="enable-background:new 0 0 512 512;"
 	xml:space="preserve">
 <defs>
-	<pattern id="stripes" width="800" height="100" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
-		<line x1="62" x2="62" y2="100" style="stroke:#e84750; stroke-width:200" />
-		<line x1="212" x2="212" y2="100" style="stroke:#f5a336; stroke-width:100" />
-		<line x1="312" x2="312" y2="100" style="stroke:#ffdb00; stroke-width:100" />
-		<line x1="412" x2="412" y2="100" style="stroke:#54ae37; stroke-width:100" />
-		<line x1="512" x2="512" y2="100" style="stroke:#00a8de; stroke-width:100" />
-		<line x1="662" x2="662" y2="200" style="stroke:#854794; stroke-width:200" />
+	<pattern id="stripes" width="840" height="120" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+		<line x1="62" x2="62" y2="120" style="stroke:#ff95c4; stroke-width:240" />
+		<line x1="242" x2="242" y2="120" style="stroke:#9581fe; stroke-width:120" />
+		<line x1="362" x2="362" y2="120" style="stroke:#67d965; stroke-width:120" />
+		<line x1="482" x2="482" y2="120" style="stroke:#9581fe; stroke-width:120" />
+		<line x1="662" x2="662" y2="120" style="stroke:#ff95c4; stroke-width:240" />
 	</pattern>
 </defs>
 <rect id="striped_bg" x="0" y="0" width="512" height="512" fill="url(#stripes)"/>

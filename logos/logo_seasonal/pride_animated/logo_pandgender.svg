@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg
 	version="1.1"
-	id="logo_pride"
+	id="logo_pandgender"
 	xmlns:cc="http://creativecommons.org/ns#"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -15,12 +15,13 @@
 	xml:space="preserve">
 <defs>
 	<pattern id="stripes" width="800" height="100" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
-		<line x1="62" x2="62" y2="100" style="stroke:#e84750; stroke-width:200" />
-		<line x1="212" x2="212" y2="100" style="stroke:#f5a336; stroke-width:100" />
-		<line x1="312" x2="312" y2="100" style="stroke:#ffdb00; stroke-width:100" />
-		<line x1="412" x2="412" y2="100" style="stroke:#54ae37; stroke-width:100" />
-		<line x1="512" x2="512" y2="100" style="stroke:#00a8de; stroke-width:100" />
-		<line x1="662" x2="662" y2="200" style="stroke:#854794; stroke-width:200" />
+		<line x1="37" x2="37" y2="100" style="stroke:#fff798; stroke-width:150" />
+		<line x1="162" x2="162" y2="100" style="stroke:#feddcc; stroke-width:100" />
+		<line x1="262" x2="262" y2="100" style="stroke:#ffebfc; stroke-width:100" />
+		<line x1="362" x2="362" y2="100" style="stroke:#ffffff; stroke-width:100" />
+		<line x1="462" x2="462" y2="100" style="stroke:#ffebfc; stroke-width:100" />
+		<line x1="562" x2="562" y2="100" style="stroke:#feddcc; stroke-width:100" />
+		<line x1="687" x2="687" y2="200" style="stroke:#fff798; stroke-width:150" />
 	</pattern>
 </defs>
 <rect id="striped_bg" x="0" y="0" width="512" height="512" fill="url(#stripes)"/>
