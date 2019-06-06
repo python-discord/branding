@@ -1,6 +1,6 @@
 <svg
     version="1.1"
-    id="logo_pride"
+    id="logo_genderfluid"
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 500 500"
@@ -11,12 +11,11 @@
     </clipPath>
 </defs>
 <g id="striped_bg" clip-path="url(#bg_clip)">
-    <rect id="stripe_6" fill="#854794" width="500" height="500" />
-    <polygon id="stripe_5" fill="#00a8de" points="0,0 0,782.842 782.842,0" /> <!-- 500 + 2sqrt(2 * 100²) -->
-    <polygon id="stripe_4" fill="#54ae37" points="0,0 0,641.421 641.421,0" /> <!-- 500 + sqrt(2 * 100²) -->
-    <polygon id="stripe_3" fill="#ffdb00" points="0,0 0,500 500,0" />
-    <polygon id="stripe_2" fill="#f5a336" points="0,0 0,358.578 358.578,0" /> <!-- 500 - sqrt(2 * 100²) -->
-    <polygon id="stripe_1" fill="#e84750" points="0,0 0,217.157 217.157,0" /> <!-- 500 - 2sqrt(2 * 100²) -->
+    <rect id="stripe_5" fill="#333ebd" width="500" height="500" />
+    <polygon id="stripe_4" fill="#000000" points="0,0 0,765.165 765.165,0" /> <!-- 500 + [sqrt(2 * 125²) + sqrt(2 * (125 / 2)²)] -->
+    <polygon id="stripe_2" fill="#ffffff" points="0,0 0,500 500,0" />
+    <polygon id="stripe_1" fill="#ff75a2" points="0,0 0,234.834 234.834,0" /> <!-- 500 - [sqrt(2 * 125²) + sqrt(2 * (125 / 2)²)] -->
+    <line id="stripe_3" stroke="#be18d6" x1="500" y2="500" stroke-width="125" />
 </g>
 <g id="python_logo" transform="scale(1.1415525114155251141552511415525)">
     <path
