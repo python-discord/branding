@@ -1,6 +1,6 @@
 <svg
     version="1.1"
-    id="logo_pride"
+    id="logo_demiboy"
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 500 500"
@@ -11,12 +11,13 @@
     </clipPath>
 </defs>
 <g id="striped_bg" clip-path="url(#bg_clip)">
-    <rect id="stripe_6" fill="#854794" width="500" height="500" />
-    <polygon id="stripe_5" fill="#00a8de" points="0,0 0,782.842 782.842,0" /> <!-- 500 + 2sqrt(2 * 100²) -->
-    <polygon id="stripe_4" fill="#54ae37" points="0,0 0,641.421 641.421,0" /> <!-- 500 + sqrt(2 * 100²) -->
-    <polygon id="stripe_3" fill="#ffdb00" points="0,0 0,500 500,0" />
-    <polygon id="stripe_2" fill="#f5a336" points="0,0 0,358.578 358.578,0" /> <!-- 500 - sqrt(2 * 100²) -->
-    <polygon id="stripe_1" fill="#e84750" points="0,0 0,217.157 217.157,0" /> <!-- 500 - 2sqrt(2 * 100²) -->
+    <rect id="stripe_7" fill="#7f7f7f" width="500" height="500" />
+    <polygon id="stripe_6" fill="#c4c4c4" points="0,0 0,800.520 800.520,0" /> <!-- 500 + [2sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
+    <polygon id="stripe_5" fill="#9cd9eb" points="0,0 0,680.312 680.312,0" /> <!-- 500 + [sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
+    <polygon id="stripe_3" fill="#9cd9eb" points="0,0 0,500 500,0" />
+    <polygon id="stripe_2" fill="#c4c4c4" points="0,0 0,319.688 319.688,0" /> <!-- 500 - [sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
+    <polygon id="stripe_1" fill="#7f7f7f" points="0,0 0,199.480 199.480,0" /> <!-- 500 - [2sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
+    <line id="stripe_4" stroke="#ffffff" x1="500" y2="500" stroke-width="85" />
 </g>
 <g id="python_logo" transform="scale(1.1415525114155251141552511415525)">
     <path
