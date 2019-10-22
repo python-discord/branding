@@ -1,0 +1,27 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 128 128"
+>
+    <defs>
+        <path
+            id="sparkle"
+            fill="white"
+            d="M64,103.5c2.3,0,4.2-2.6,4.2-5.8c0-3.1-3.9-10.2-4.1-10.5L64,87l-0.1,0.2c-0.2,0.3-4.1,7.4-4.1,10.5C59.8,100.9,61.7,103.5,64,103.5z"
+        />
+    </defs>
+    <rect id="square" x="14" y="14" width="100" height="100" rx="10" fill="#68c290" />
+    <polygon
+        id="star"
+        transform="rotate(18, 64, 64)"
+        fill="white"
+        points="83,64 92.31559480312316,84.57248383023656 69.871322893124,82.07007380960792 53.184405196876845,97.28697807033038 48.628677106876,75.16791979355699 29,64 48.628677106876,52.83208020644301 53.18440519687684,30.71302192966963 69.871322893124,45.92992619039208 92.31559480312316,43.427516169763436 83,63.99999999999999"
+    />
+    <!--
+    <use id="sparkle_bm" xlink:href="#sparkle" />
+    <use id="sparkle_bl" xlink:href="#sparkle" transform="rotate(72, 64, 64)" />
+    <use id="sparkle_tl" xlink:href="#sparkle" transform="rotate(144, 64, 64)" />
+    <use id="sparkle_br" xlink:href="#sparkle" transform="rotate(-72, 64, 64)" />
+    <use id="sparkle_tr" xlink:href="#sparkle" transform="rotate(-144, 64, 64)" />
+    -->
+</svg>
