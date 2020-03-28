@@ -6,11 +6,11 @@ While the primary function is to organize the various assets we have, they are a
 
 #### Automatically managed assets
 
-There are 3 types of seasonal assets: **server icons**, **server banners**, and **bot avatars**. While a season always has **at most 1** banner and bot avatar, there may be **multiple** server icons. In such a case, Seasonalbot will periodically cycle available icons in a configurable interval (once every *n* days).
+There are 3 types of seasonal assets: **server icons**, **server banners**, and **bot avatars**. While a season always has **at most 1** banner and bot avatar, there may be **multiple** server icons. In such a case, Seasonalbot will periodically cycle available icons at a configurable interval (once every *n* days).
 
-In order for banners and avatars to be discovered, they shall be placed directly in a seasonal directory, named `seasonal/<season_name>/banner.png` and `../avatar.png` respectively. Note that these assets are expected to *always* carry the **png** extension. Server icons shall always (regardless of whether the is only 1, or many) be placed in a nested directory, as follows: `../server_icons/festive_256.gif`. Server icons are name and extension agnostic - they are registered simply be being present in the `server_icons/` directory.
+In order for banners and avatars to be discovered, they shall be placed directly in a seasonal directory, named `seasonal/<season_name>/banner.png` and `.../avatar.png` respectively. Note that these assets are expected to *always* carry the **png** extension. Server icons shall always (regardless of whether the is only 1, or many) be placed in a nested directory, as follows: `.../server_icons/festive_256.gif`. Server icons are name and extension agnostic - they are registered simply by being present in the `server_icons/` directory.
 
-If a non-evergreen season does not provide all assets, the bot will search for the missing ones in the evergreen directory. We will illustrate this behaviour on the following example:
+If a non-evergreen season does not provide all assets, the bot will search for the missing ones in the evergreen directory. We will illustrate this behaviour with the following example:
 
 ```
 ├── seasonal/
@@ -32,9 +32,9 @@ If a non-evergreen season does not provide all assets, the bot will search for t
 │ │ ├── banner.png
 ```
 
-While the **easter** season is active, the bot will apply its `avatar.png` and `banner.png` assets. However as the season does not provide any server icons, the bot will continue to cycle the evergreen ones - `winky.gif`, and `spinner.png`.
+While the **easter** season is active, the bot will apply its `avatar.png` and `banner.png` assets. However as the season does not provide any server icons, the bot will continue to cycle the evergreen ones - `winky.gif` and `spinner.png`.
 
-Once we enter **christmas** season, the bot will apply the `snowing.gif` server icon - it will not cycle, as there is only one. Additionally, the christmas `avatar.png` will be used, however the bot will fallback on the evergreen `banner.png`.
+Once we enter the **christmas** season, the bot will apply the `snowing.gif` server icon - it will not cycle, as there is only one icon. Additionally, the christmas `avatar.png` will be used. However, the bot will fall back to the evergreen `banner.png`.
 
 While no specific season is active, the bot simply uses the evergreen one.
 
