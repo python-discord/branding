@@ -2,7 +2,7 @@
 
 Each folder in this directory contains branding inspired by a specific season. Such assets are temporarily applied to the server to celebrate holidays, promote on-going events, or to show support for various world-wide movements.
 
-While the primary function is to organize the various assets we have, they are also used by **Seasonalbot's branding manager**. The bot will automatically apply seasonal assets pulled directly from this repository to the server. In order for Seasonalbot to properly detect and apply assets, certain conventions must be followed.
+While the primary function is to organize the various assets we have, they are also used by **[Seasonalbot](https://github.com/python-discord/seasonalbot)'s branding manager**. The bot will automatically apply seasonal assets pulled directly from this repository to the server. In order for Seasonalbot to properly detect and apply assets, certain conventions must be followed.
 
 #### Automatically managed assets
 
