@@ -17,11 +17,10 @@ If you'd like to link to us, one possible description you could use is below:
  
 
 ## Licenses
-![Creative Commons License logo](https://i.creativecommons.org/l/by/4.0/88x31.png) ![Creative Commons License logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+[![Creative Commons License logo](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Creative Commons License logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 The lemoji emotes found in `emotes/lemoji` are adapted from various emoji in [Twitter's Twemoji pack](https://twemoji.twitter.com/). We're using their lemon emoji as the base, and many of the features are taken and adapted from other emojis. These are all licensed under the same license as Twemoji, which is [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
-Everything else in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-
 Our logos are derivatives of the official Python logo. More information on how their assets are licensed can be found on [their trademarks page](https://www.python.org/psf/trademarks/).
 
+Everything else in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
