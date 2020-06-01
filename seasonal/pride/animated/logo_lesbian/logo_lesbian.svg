@@ -11,13 +11,11 @@
     </clipPath>
 </defs>
 <g id="striped_bg" clip-path="url(#bg_clip)">
-    <rect id="stripe_7" fill="#8b1800" width="500" height="500" />
-    <polygon id="stripe_6" fill="#c64d53" points="0,0 0,800.520 800.520,0" /> <!-- 500 + [2sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
-    <polygon id="stripe_5" fill="#e5aed0" points="0,0 0,680.312 680.312,0" /> <!-- 500 + [sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
-    <polygon id="stripe_3" fill="#d163a7" points="0,0 0,500 500,0" />
-    <polygon id="stripe_2" fill="#b85493" points="0,0 0,319.688 319.688,0" /> <!-- 500 - [sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
-    <polygon id="stripe_1" fill="#a60061" points="0,0 0,199.480 199.480,0" /> <!-- 500 - [2sqrt(2 * 85²) + sqrt(2 * (85 / 2)²)] -->
-    <line id="stripe_4" stroke="#eeeeec" x1="500" y2="500" stroke-width="85" />
+    <rect id="stripe_5" fill="#A20161" width="500" height="500" />
+    <polygon id="stripe_4" fill="#D161A2" points="0,0 0,765.165 765.165,0" /> <!-- 500 + [sqrt(2 * 125²) + sqrt(2 * (125 / 2)²)] -->
+    <polygon id="stripe_2" fill="#FD9855" points="0,0 0,500 500,0" />
+    <polygon id="stripe_1" fill="#D42C00" points="0,0 0,234.834 234.834,0" /> <!-- 500 - [sqrt(2 * 125²) + sqrt(2 * (125 / 2)²)] -->
+    <line id="stripe_3" stroke="#FFFFFF" x1="500" y2="500" stroke-width="125" />
 </g>
 <g id="python_logo" transform="scale(1.1415525114155251141552511415525)">
     <path
