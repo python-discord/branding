@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="lesbian_flag" transform="matrix(0.911576,-0.912751,0.912751,0.911576,-434.034,387.265)">
-        <rect x="0" y="0" width="900" height="120" style="fill:rgb(212,44,0);"/>
-        <rect x="0" y="120" width="900" height="120" style="fill:rgb(253,152,85);"/>
-        <rect x="0" y="240" width="900" height="120" style="fill:white;"/>
-        <rect x="0" y="360" width="900" height="120" style="fill:rgb(209,97,162);"/>
-        <rect x="0" y="480" width="900" height="120" style="fill:rgb(162,1,97);"/>
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="striped_bg">
+        <rect id="stripe_5" x="0" y="0" width="500" height="500" style="fill:rgb(162,1,97);"/>
+        <path id="stripe_4" d="M0,0L0,765.165L765.165,0L0,0Z" style="fill:rgb(209,97,162);fill-rule:nonzero;"/>
+        <path id="stripe_2" d="M0,0L0,500L500,0L0,0Z" style="fill:rgb(253,152,85);fill-rule:nonzero;"/>
+        <path id="stripe_1" d="M0,0L0,234.834L234.834,0L0,0Z" style="fill:rgb(212,44,0);fill-rule:nonzero;"/>
+        <path id="stripe_3" d="M500,0L0,500" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:125px;"/>
     </g>
     <g id="python_logo" transform="matrix(1.14155,0,0,1.14155,0,0)">
         <path id="shadow" d="M283.1,68L271.594,71.309C259.371,69.504 246.837,68.712 234.699,68.801C221.199,68.901 208.201,70 196.801,72C193.101,72.652 189.754,73.386 186.694,74.199L150.801,74.199L150.801,93L155.301,93L155.301,100.699L158.084,100.699C157.445,104.414 157.199,108.499 157.199,113L157.199,117L141.801,117L139.6,128L157.2,143.014L157.2,143.1L236.401,143.1L236.401,153.1L127.501,153.1C104.501,153.1 84.301,166.9 78.001,193.1C70.701,223.1 70.401,241.901 78.001,273.301C78.499,275.38 79.062,277.4 79.685,279.364L78.501,289.802L91.847,301.351C98.879,308.861 108.218,313.302 120.101,313.302L147.302,313.302L147.302,277.302C147.302,251.302 169.902,228.302 196.802,228.302L276.001,228.302C298.001,228.302 315.601,210.2 315.601,188.2L315.601,113.001C315.601,100.101 309.019,89.17 299.085,81.728L283.1,68ZM359.901,145.6L345.6,153L325.5,153L325.5,188.1C325.5,215.3 302.4,238.1 276,238.1L196.9,238.1C175.2,238.1 157.3,256.6 157.3,278.2L157.3,353.302C157.3,374.702 176,387.302 196.9,393.402C222,400.702 246,402.102 276,393.402C295.9,387.702 315.6,376.102 315.6,353.302L315.6,323.2L315.481,323.2L303.76,313.2L355.199,313.2C378.199,313.2 386.801,297.2 394.801,273.2C403.101,248.5 402.701,224.701 394.801,193.001C391.178,178.51 385.448,166.291 375.854,159.302L359.901,145.6ZM236.501,313.2L294.001,313.2L294.001,323.2L236.501,323.2L236.501,313.2Z" style="fill:rgb(35,31,32);fill-opacity:0.36;fill-rule:nonzero;"/>
