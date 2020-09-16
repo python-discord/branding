@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 513 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2253,-1024)">
+        <g transform="matrix(0.825702,0,0,0.729787,-2185.81,0)">
+            <g id="lrb" transform="matrix(8.67067e-17,1.60213,-1.41603,9.81025e-17,7261.87,-3146.59)">
+                <rect x="2839.8" y="893.446" width="437.9" height="437.9" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <rect x="2839.8" y="893.446" width="437.9" height="437.9"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(6.48878e-17,1.0597,-1.28415,7.86316e-17,3528.07,-1558.74)">
+                        <path d="M2601.37,194.972L2439.95,194.972L2439.95,194.973C2439.95,252.354 2383.58,298.871 2314.05,298.871L2314.04,298.871L2314.04,432.076L2314.04,432.076C2472.73,432.076 2601.37,325.921 2601.37,194.972L2601.37,194.972Z" style="fill:rgb(114,137,218);"/>
+                        <clipPath id="_clip2">
+                            <path d="M2601.37,194.972L2439.95,194.972L2439.95,194.973C2439.95,252.354 2383.58,298.871 2314.05,298.871L2314.04,298.871L2314.04,432.076L2314.04,432.076C2472.73,432.076 2601.37,325.921 2601.37,194.972L2601.37,194.972Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <g transform="matrix(4.94201e-17,-0.666022,0.807092,4.07821e-17,1487.58,2036.99)">
+                                <path d="M2668.04,1189.34C2696.65,1206.28 2730.04,1216 2765.7,1216L2765.7,1216" style="fill:none;stroke:rgb(135,160,235);stroke-width:29.17px;"/>
+                            </g>
+                            <g transform="matrix(6.12323e-17,-0.825213,1.21181,6.12323e-17,2077.78,2429.57)">
+                                <rect x="2439.95" y="194.972" width="161.418" height="341.003" style="fill:rgb(91,109,174);"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.0597,0,0,1.28415,387.609,643.072)">
+                        <rect x="2439.95" y="194.972" width="161.418" height="341.003" style="fill:rgb(114,137,218);"/>
+                        <clipPath id="_clip3">
+                            <rect x="2439.95" y="194.972" width="161.418" height="341.003"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip3)">
+                            <g transform="matrix(3.14773,1.47544e-31,0,1.85885,-5618.22,-1367.48)">
+                                <path d="M2569.23,840.551L2569.23,1024" style="fill:none;stroke:rgb(135,160,235);stroke-width:8.6px;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
