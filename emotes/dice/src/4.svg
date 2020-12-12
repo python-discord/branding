@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 255 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-333)">
+        <g id="_4" serif:id="4" transform="matrix(1,0,0,1,-1136.35,333.654)">
+            <rect x="1136.35" y="0" width="255" height="255" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1136.35" y="0" width="255" height="255"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,1136.35,0)">
+                    <g id="Background">
+                        <path id="Background1" serif:id="Background" d="M255,77.281C255,34.628 220.372,0 177.719,0L77.281,0C34.628,0 0,34.628 0,77.281L0,177.719C0,220.372 34.628,255 77.281,255L177.719,255C220.372,255 255,220.372 255,177.719L255,77.281Z" style="fill:rgb(114,137,218);"/>
+                    </g>
+                </g>
+                <g id="Dot" transform="matrix(1,0,0,1,913.659,312.566)">
+                    <circle id="Dot1" serif:id="Dot" cx="410.412" cy="-245.285" r="26.342" style="fill:white;"/>
+                </g>
+                <g id="Dot2" serif:id="Dot" transform="matrix(1,0,0,1,793.221,433.004)">
+                    <circle id="Dot3" serif:id="Dot" cx="410.412" cy="-245.285" r="26.342" style="fill:white;"/>
+                </g>
+                <g id="Dot4" serif:id="Dot" transform="matrix(1,0,0,1,913.659,433.004)">
+                    <circle id="Dot5" serif:id="Dot" cx="410.412" cy="-245.285" r="26.342" style="fill:white;"/>
+                </g>
+                <g id="Dot6" serif:id="Dot" transform="matrix(1,0,0,1,793.221,312.566)">
+                    <circle id="Dot7" serif:id="Dot" cx="410.412" cy="-245.285" r="26.342" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
