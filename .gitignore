@@ -1,1 +1,5 @@
+# Apple things
 .DS_Store
+
+# JetBrains stuff
+.idea/
