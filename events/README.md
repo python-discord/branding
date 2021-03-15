@@ -83,3 +83,11 @@ Fortunately, it is not necessarily to manually verify that all events are config
 Validation happens in two stages. First, all events are checked individually, to ensure that they contain all necessary assets and have a correctly structured `meta.md` file. If all events pass, the second stage verifies that there is exactly 1 fallback event, and that no events collide. In the case of collision, the exact dates and culprit events are printed.
 
 We depend on a minimal set of non-stdlib packages to parse meta files: [python-frontmatter](https://pypi.org/project/python-frontmatter/) wrapping around [pyyaml](https://pypi.org/project/PyYAML/). The exact version pins are provided in `requirements.txt` with the recommended Python version to use.
+
+If you'd prefer to create a virtual environment with Pipenv, it is possible with the following command:
+
+```
+pipenv install -r events/requirements.txt
+```
+
+This will spawn a lockfile that you can sync from. Please make sure that you do not accidentally commit the Pipenv-generated files.
