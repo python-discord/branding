@@ -3,3 +3,6 @@
 
 # JetBrains stuff
 .idea/
+
+# Contributors may want to generate a local Pipfile for event validation
+Pipfile*
