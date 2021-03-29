@@ -37,7 +37,7 @@ ARBITRARY_YEAR = 2020
 
 
 class Misconfiguration(Exception):
-    """Raised to indicate event misconfiguration."""
+    """Indication of event misconfiguration."""
 
     pass
 
@@ -167,7 +167,7 @@ def check_date_configuration(events: t.List[Event]) -> None:
 
     Additionally, this also verifies that there is exactly 1 fallback event.
 
-    Raises `Misconfiguration` with a listing of colliding events, if any are found.
+    Raise `Misconfiguration` with a listing of colliding events, if any are found.
     """
     fallback_events = [event for event in events if event.fallback]
 

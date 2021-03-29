@@ -4,7 +4,7 @@ This directory contains branding for events celebrated by Python Discord. Events
 
 ## Event directory structure
 
-In order for an event directory to be valid, it has to contain the following assets.
+For an event directory to be valid, it has to contain the following assets.
 
 ### `meta.md`
 
@@ -27,7 +27,7 @@ There must be exactly 1 fallback event, and 0 or more non-fallback events. Event
 
 The markdown section of the meta file then contains the event's description. Descriptions are made available directly in the Discord guild as embeds sent by the Python bot. For formatting, use Discord's watered down Markdown ~ keep in mind that e.g. the `#` symbol does not create a heading.
 
-A description is required to exist, and must be at most 2048 characters in length in order to fit into a Discord embed. 
+A description is required to exist, and must be at most 2048 characters in length to fit into a Discord embed.
 
 ### `banner.png`
 
@@ -78,7 +78,7 @@ Files such as `festive.svg` and `reindeer.mp4` are simply ignored. The bot doesn
 
 ## Automatic validation
 
-Fortunately, it is not necessarily to manually verify that all events are configured properly w.r.t. the requirements explained above. The `validation.py` script contains logic to ascertain correct setup, and will automatically run in CI on pull requests to prevent a broken configuration from reaching the production branch.
+Fortunately, it is not necessary to manually verify that all events are configured properly w.r.t. the requirements explained above. The `validation.py` script contains logic to ascertain correct setup, and will automatically run in CI on pull requests to prevent a broken configuration from reaching the production branch.
 
 Validation happens in two stages. First, all events are checked individually, to ensure that they contain all necessary assets and have a correctly structured `meta.md` file. If all events pass, the second stage verifies that there is exactly 1 fallback event, and that no events collide. In the case of collision, the exact dates and culprit events are printed.
 
