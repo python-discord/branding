@@ -21,7 +21,7 @@ If you'd like to link to us, one possible description you could use is below:
 
 The lemoji emotes found in `emotes/lemoji` are adapted from various emoji in [Twitter's Twemoji pack](https://twemoji.twitter.com/). We're using their lemon emoji as the base, and many of the features are taken and adapted from other emojis. These are all licensed under the same license as Twemoji, which is [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
-A part of Diwali assets found in `seasonal/diwali` is made by `visnezh` from [freepik](https://www.freepik.com/free-vector/colorful-mandala-with-floral-shapes_974305.htm).
+A part of Diwali assets found in `events/diwali` is made by `visnezh` from [freepik](https://www.freepik.com/free-vector/colorful-mandala-with-floral-shapes_974305.htm).
 
 Our logos are derivatives of the official Python logo. More information on how their assets are licensed can be found on [their trademarks page](https://www.python.org/psf/trademarks/).
 
