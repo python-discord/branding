@@ -1,0 +1,3 @@
+# Python: 3.8
+python-frontmatter==1.0.0
+pyyaml==5.4.1
