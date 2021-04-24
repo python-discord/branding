@@ -13,7 +13,7 @@ jobs:
     # sequence we're running terminates. There are a number
     # of situations in which that happens:
     #
-    # 1. We reach the end of the Deploy workflow, without
+    # 1. We reach the end of the Event Validation workflow, without
     #    it being skipped.
     #
     # 2. A `pull_request` triggered a Lint & Test workflow,
