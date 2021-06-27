@@ -429,7 +429,7 @@
        y1="145.50418"
        x2="344.595"
        y2="162.61864"
-       gradientTransform="translate(490.00131,542.77317)" />
+       gradientTransform="matrix(0.93067977,0,0,0.93067977,16.737876,-10.012621)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1950"
@@ -632,21 +632,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23638462"
-     inkscape:cx="315.16433"
-     inkscape:cy="552.06637"
+     inkscape:zoom="0.47276924"
+     inkscape:cx="662.05661"
+     inkscape:cy="516.10803"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1912"
-     inkscape:window-height="1040"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="1" />
   <metadata
@@ -789,8 +789,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Site Banner"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:url(#linearGradient1072);fill-opacity:1;stroke-width:2.10858;stroke-linecap:square;stroke-linejoin:bevel"
        id="rect1064"
@@ -801,149 +800,158 @@
        inkscape:export-filename="/home/kosa/Documents/code/python/PythonDiscord/branding/events/summer_code_jam_2021/site_banner.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <path
+       id="path1273-74-7"
+       style="display:inline;fill:url(#linearGradient2990);fill-opacity:1;stroke:#dd89e8;stroke-width:1.13476;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;filter:url(#filter3136)"
+       d="m 794.13229,589.45647 c -13.51609,0.007 -26.31166,6.09522 -34.8434,16.57826 -7.39847,-4.95148 -16.1005,-7.59482 -25.003,-7.59495 -5.35005,9e-5 -10.65712,0.95516 -15.67153,2.82029 -8.2693,-7.49642 -19.03156,-11.64861 -30.19299,-11.64877 -19.36774,1.7e-4 -36.55829,12.40454 -42.6632,30.78495 -6.34339,-3.24952 -13.36851,-4.94423 -20.49578,-4.94432 -9.24298,-10e-6 -18.2613,2.84904 -25.82674,8.15911 -8.39105,-8.15641 -19.63181,-12.71947 -31.3338,-12.7196 -24.82829,-8e-5 -44.95561,20.12727 -44.95549,44.95556 8e-5,2.81491 0.26454,5.62358 0.7899,8.38903 -16.47656,7.10804 -27.14789,23.3337 -27.14787,41.27809 1.5e-4,13.15988 5.76656,25.65888 15.77816,34.19999 -3.28771,6.37288 -5.00318,13.4398 -5.00321,20.61076 -8e-5,24.82826 20.12723,44.95557 44.95549,44.95549 8.81486,-4e-5 17.4352,-2.59154 24.78884,-7.45218 8.13894,6.95009 18.49045,10.76847 29.19308,10.76849 7.83761,-10e-5 15.53901,-2.04926 22.34029,-5.94421 7.96865,14.13327 22.02899,18.98777 38.25393,18.98785 16.34017,-5e-5 32.29932,-4.97804 40.22245,-19.26878 7.2864,4.7288 15.78676,7.24539 24.47314,7.24543 10.87995,-8e-5 21.39071,-3.94583 29.58295,-11.10548 10.82926,15.65182 23.54797,22.1865 41.53476,22.18662 17.65486,4e-5 30.01955,-6.04097 40.74464,-21.34898 6.75837,3.82917 14.3936,5.84183 22.16136,5.84177 10.47377,6e-5 20.61885,-3.65697 28.68366,-10.33968 8.50188,9.10649 20.40151,14.27655 32.85984,14.27669 24.82827,9e-5 44.95558,-20.12722 44.9555,-44.95549 -8e-5,-7.97638 -2.12238,-15.80911 -6.14911,-22.69446 14.82604,-7.75523 24.11842,-23.10269 24.1185,-39.83455 3e-5,-21.89679 -15.77636,-40.60843 -37.35822,-44.30883 0.2954,-2.08709 0.44363,-4.19237 0.44362,-6.30026 1.1e-4,-24.82828 -20.1272,-44.95561 -44.95548,-44.95554 -11.10652,2e-4 -21.81983,4.11177 -30.07478,11.54215 -8.51735,-9.32566 -20.56469,-14.63834 -33.19454,-14.63826 -5.52498,1.7e-4 -11.0026,1.01878 -16.15829,3.00479 -8.53769,-10.46133 -21.32554,-16.53094 -34.82856,-16.53098 h -0.0241 z"
+       sodipodi:nodetypes="sccccccccccccssccccccccccccscsccccccscs"
+       transform="matrix(0.93067977,0,0,0.93067977,-439.29643,-515.16063)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="display:inline;fill:url(#linearGradient2992);fill-opacity:1;stroke:none;stroke-width:0.379454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3220)"
+       d="m 774.06829,646.06851 c -6.07696,-2.99762 -12.5148,-6.18612 -18.2701,-11.03556 -6.28893,-5.2991 -7.83151,-13.03205 -9.75141,-13.97475 -2.19814,-1.07931 -13.36472,-1.48177 -17.10169,-4.66581 -6.26387,-5.33708 -7.99747,-13.8879 -9.19916,-13.99611 -4.19558,-0.37779 -11.28673,-2.19929 -14.39991,-4.3333 -3.91283,-2.68214 -6.63804,-5.26659 -7.87689,-10.95132 40.41845,-8.97845 63.68273,17.48458 76.59916,58.95685 z"
+       id="path1877-4"
+       sodipodi:nodetypes="cssssscc"
+       transform="matrix(0.93067977,0,0,0.93067977,-439.29643,-515.16063)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="display:inline;fill:url(#linearGradient2994);fill-opacity:1;stroke:none;stroke-width:0.246242px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 278.19581,86.153738 c 33.29534,29.152022 39.65443,52.535612 36.23761,84.442022 l 7.25193,7.06909 c 5.95871,-41.32012 -6.8428,-71.95479 -37.15136,-94.120068 z"
+       id="path1879-1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <g
-       id="g1859"
-       style="display:inline"
-       transform="translate(0.55118986,-472.80191)"
-       inkscape:export-filename="/home/kosa/Documents/code/python/PythonDiscord/branding/events/summer_code_jam_2021/site_banner.png"
+       aria-label="'21"
+       id="text1650-8"
+       style="font-weight:800;font-size:126.297px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdff9f;stroke-width:0.657806">
+      <path
+         d="m 318.99255,151.02678 h 12.6297 l 2.52594,-30.31128 h -17.68158 z"
+         id="path1009" />
+      <path
+         d="m 341.97852,209.1234 h 60.11737 V 189.67366 H 372.4161 l 14.65045,-14.77675 c 8.08301,-8.08301 13.76637,-17.17639 13.76637,-27.78534 0,-17.80787 -14.14526,-28.16423 -29.93239,-28.16423 -12.25081,0 -24.12272,6.18855 -29.80609,19.32344 l 17.0501,9.97747 c 2.39964,-5.55707 6.82003,-9.59858 13.00859,-9.59858 5.93596,0 9.47227,3.78891 9.47227,9.34598 0,5.17818 -3.78891,10.35636 -8.96708,15.66083 l -29.6798,30.81647 z"
+         id="path1011" />
+      <path
+         d="m 428.36549,120.7155 -23.11235,8.3356 4.92559,17.30269 15.66082,-4.2941 v 67.06371 h 20.20752 v -88.4079 z"
+         id="path1013" />
+    </g>
+    <g
+       aria-label="SUMMER"
+       id="text1616-9"
+       style="font-weight:800;font-size:60.5205px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdff9f;stroke-width:0.315211">
+      <path
+         d="m 72.608804,162.6064 c 9.199116,0 15.73533,-4.84164 15.73533,-13.01191 0,-8.95704 -7.20194,-11.19629 -13.617113,-13.13295 -6.596734,-1.99718 -7.625583,-3.32863 -7.625583,-5.26528 0,-1.69458 1.513013,-3.20759 4.539038,-3.20759 3.873312,0 5.870488,1.87614 7.32298,4.90216 l 8.170268,-4.78112 c -3.086546,-6.23361 -8.533391,-9.56224 -15.493248,-9.56224 -7.322981,0 -14.222318,4.7206 -14.222318,12.89087 0,8.10975 6.173091,11.13577 12.467223,12.89087 6.354653,1.75509 8.775473,2.78394 8.775473,5.38632 0,1.63405 -1.14989,3.44967 -5.749448,3.44967 -4.781119,0 -7.383501,-2.3603 -8.896513,-5.87049 l -8.351829,4.84164 c 2.360299,6.23361 8.049226,10.47005 16.94574,10.47005 z"
+         id="path978" />
+      <path
+         d="m 109.22365,162.6064 c 9.32016,0 16.34054,-5.44685 16.34054,-14.52492 v -28.68672 h -9.68328 v 27.83943 c 0,3.20759 -1.51302,5.93101 -6.65726,5.93101 -5.14424,0 -6.65725,-2.72342 -6.65725,-5.93101 v -27.83943 h -9.683283 v 28.68672 c 0,9.07807 7.020378,14.52492 16.340533,14.52492 z"
+         id="path980" />
+      <path
+         d="m 174.88837,119.39476 h -9.68328 l -11.4989,18.82187 -11.49889,-18.82187 h -9.68328 v 42.36435 h 9.68328 v -24.63184 l 10.95421,17.97458 h 1.08937 l 10.95421,-17.97458 v 24.63184 h 9.68328 z"
+         id="path982" />
+      <path
+         d="m 224.51517,119.39476 h -9.68328 l -11.4989,18.82187 -11.49889,-18.82187 h -9.68328 v 42.36435 h 9.68328 v -24.63184 l 10.95421,17.97458 h 1.08937 l 10.95421,-17.97458 v 24.63184 h 9.68328 z"
+         id="path984" />
+      <path
+         d="m 241.46088,152.43895 v -7.50454 h 15.13013 v -9.19912 h -15.13013 v -7.02037 h 16.64314 v -9.32016 H 231.7776 v 42.36435 h 26.62902 v -9.32016 z"
+         id="path986" />
+      <path
+         d="m 286.12494,161.75911 h 10.40952 l -9.01755,-15.55377 c 4.66008,-2.3603 7.80714,-7.0809 7.80714,-12.28566 0,-8.04923 -6.47569,-14.52492 -14.52492,-14.52492 h -16.94574 v 42.36435 h 9.68328 v -13.91972 h 4.59956 z m -12.58827,-33.28628 h 7.26246 c 2.66291,0 4.84164,2.3603 4.84164,5.44685 0,3.08654 -2.17873,5.44684 -4.84164,5.44684 h -7.26246 z"
+         id="path988" />
+    </g>
+    <g
+       aria-label="CODE JAM"
+       id="text1616-5-5"
+       style="font-weight:800;font-size:55.1697px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f8e87c;stroke-width:0.287342">
+      <path
+         d="m 69.800232,208.72408 c 7.061721,0 13.240728,-3.47569 16.55091,-8.93749 l -7.613419,-4.41358 c -1.655091,2.97917 -5.020442,4.7446 -8.937491,4.7446 -6.841043,0 -11.254619,-4.57909 -11.254619,-11.4753 0,-6.89621 4.413576,-11.4753 11.254619,-11.4753 3.917049,0 7.227231,1.76543 8.937491,4.7446 l 7.613419,-4.41358 c -3.365352,-5.4618 -9.544358,-8.93749 -16.55091,-8.93749 -11.640807,0 -20.081771,8.71681 -20.081771,20.08177 0,11.36496 8.440964,20.08177 20.081771,20.08177 z"
+         id="path1034" />
+      <path
+         d="m 108.36382,208.72408 c 11.08911,0 20.08177,-8.71681 20.08177,-20.08177 0,-11.36496 -8.99266,-20.08177 -20.08177,-20.08177 -11.089111,0 -20.081772,8.71681 -20.081772,20.08177 0,11.36496 8.992661,20.08177 20.081772,20.08177 z m 0,-8.60647 c -6.28935,0 -11.25462,-4.57909 -11.25462,-11.4753 0,-6.89621 4.96527,-11.4753 11.25462,-11.4753 6.28934,0 11.25462,4.57909 11.25462,11.4753 0,6.89621 -4.96528,11.4753 -11.25462,11.4753 z"
+         id="path1036" />
+      <path
+         d="m 148.85828,169.33292 h -15.44751 v 38.61879 h 15.44751 c 10.64776,0 18.7577,-8.3858 18.7577,-19.3094 0,-10.9236 -8.10994,-19.30939 -18.7577,-19.30939 z m 0,30.12265 h -6.62036 v -21.62652 h 6.62036 c 6.06867,0 10.26157,4.1929 10.26157,10.81326 0,6.62036 -4.1929,10.81326 -10.26157,10.81326 z"
+         id="path1038" />
+      <path
+         d="m 181.40835,199.45557 v -6.84104 h 13.79243 v -8.3858 h -13.79243 v -6.39968 h 15.17167 v -8.49613 H 172.5812 v 38.61879 h 24.27467 v -8.49614 z"
+         id="path1040" />
+      <path
+         d="m 227.03352,208.72408 c 7.94443,0 13.90276,-4.68942 13.90276,-13.18556 v -26.2056 h -8.82715 v 26.2056 c 0,2.3723 -1.15856,4.57909 -5.02044,4.57909 -2.97917,0 -4.24807,-1.15857 -5.4618,-3.31018 l -7.66859,4.41357 c 2.5378,4.91011 6.95138,7.50308 13.07522,7.50308 z"
+         id="path1042" />
+      <path
+         d="m 270.72787,207.95171 h 9.6547 l -13.13039,-38.61879 h -11.25462 l -13.13039,38.61879 h 9.6547 l 1.93094,-6.06867 h 14.34412 z m -13.62691,-14.34413 4.52391,-14.17861 4.52392,14.17861 z"
+         id="path1044" />
+      <path
+         d="m 322.31145,169.33292 h -8.82715 l -10.48225,17.15777 -10.48224,-17.15777 h -8.82715 v 38.61879 h 8.82715 v -22.45407 l 9.98572,16.3854 h 0.99305 l 9.98572,-16.3854 v 22.45407 h 8.82715 z"
+         id="path1046" />
+    </g>
+    <g
+       id="g2701-8"
+       style="display:inline;stroke:none;stroke-opacity:1"
+       transform="matrix(0.93067977,0,0,0.93067977,16.737876,-10.01262)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
+      <circle
+         style="fill:#ec4141;fill-opacity:1;stroke:none;stroke-width:0.647325;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         id="path1686-83"
+         cx="98.485825"
+         cy="213.27716"
+         r="22.610535" />
       <path
-         id="path1273-74-7"
-         style="display:inline;fill:url(#linearGradient2990);fill-opacity:1;stroke:#dd89e8;stroke-width:1.13476;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;filter:url(#filter3136)"
-         d="m 794.13229,589.45647 c -13.51609,0.007 -26.31166,6.09522 -34.8434,16.57826 -7.39847,-4.95148 -16.1005,-7.59482 -25.003,-7.59495 -5.35005,9e-5 -10.65712,0.95516 -15.67153,2.82029 -8.2693,-7.49642 -19.03156,-11.64861 -30.19299,-11.64877 -19.36774,1.7e-4 -36.55829,12.40454 -42.6632,30.78495 -6.34339,-3.24952 -13.36851,-4.94423 -20.49578,-4.94432 -9.24298,-10e-6 -18.2613,2.84904 -25.82674,8.15911 -8.39105,-8.15641 -19.63181,-12.71947 -31.3338,-12.7196 -24.82829,-8e-5 -44.95561,20.12727 -44.95549,44.95556 8e-5,2.81491 0.26454,5.62358 0.7899,8.38903 -16.47656,7.10804 -27.14789,23.3337 -27.14787,41.27809 1.5e-4,13.15988 5.76656,25.65888 15.77816,34.19999 -3.28771,6.37288 -5.00318,13.4398 -5.00321,20.61076 -8e-5,24.82826 20.12723,44.95557 44.95549,44.95549 8.81486,-4e-5 17.4352,-2.59154 24.78884,-7.45218 8.13894,6.95009 18.49045,10.76847 29.19308,10.76849 7.83761,-10e-5 15.53901,-2.04926 22.34029,-5.94421 7.96865,14.13327 22.02899,18.98777 38.25393,18.98785 16.34017,-5e-5 32.29932,-4.97804 40.22245,-19.26878 7.2864,4.7288 15.78676,7.24539 24.47314,7.24543 10.87995,-8e-5 21.39071,-3.94583 29.58295,-11.10548 10.82926,15.65182 23.54797,22.1865 41.53476,22.18662 17.65486,4e-5 30.01955,-6.04097 40.74464,-21.34898 6.75837,3.82917 14.3936,5.84183 22.16136,5.84177 10.47377,6e-5 20.61885,-3.65697 28.68366,-10.33968 8.50188,9.10649 20.40151,14.27655 32.85984,14.27669 24.82827,9e-5 44.95558,-20.12722 44.9555,-44.95549 -8e-5,-7.97638 -2.12238,-15.80911 -6.14911,-22.69446 14.82604,-7.75523 24.11842,-23.10269 24.1185,-39.83455 3e-5,-21.89679 -15.77636,-40.60843 -37.35822,-44.30883 0.2954,-2.08709 0.44363,-4.19237 0.44362,-6.30026 1.1e-4,-24.82828 -20.1272,-44.95561 -44.95548,-44.95554 -11.10652,2e-4 -21.81983,4.11177 -30.07478,11.54215 -8.51735,-9.32566 -20.56469,-14.63834 -33.19454,-14.63826 -5.52498,1.7e-4 -11.0026,1.01878 -16.15829,3.00479 -8.53769,-10.46133 -21.32554,-16.53094 -34.82856,-16.53098 h -0.0241 z"
-         sodipodi:nodetypes="sccccccccccccssccccccccccccscsccccccscs"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
+         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:0.275984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.914306,199.2771 c -4.590957,13.66381 0.871056,29.91976 11.052384,36.1711 2.78862,-0.66514 4.15436,-0.44571 9.0477,-3.9945 3.17708,-14.23576 -4.77025,-28.08508 -15.524912,-33.92129 z"
+         id="path1690-1"
+         sodipodi:nodetypes="ccccc" />
       <path
-         style="display:inline;fill:url(#linearGradient2992);fill-opacity:1;stroke:none;stroke-width:0.379454px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3220)"
-         d="m 774.06829,646.06851 c -6.07696,-2.99762 -12.5148,-6.18612 -18.2701,-11.03556 -6.28893,-5.2991 -7.83151,-13.03205 -9.75141,-13.97475 -2.19814,-1.07931 -13.36472,-1.48177 -17.10169,-4.66581 -6.26387,-5.33708 -7.99747,-13.8879 -9.19916,-13.99611 -4.19558,-0.37779 -11.28673,-2.19929 -14.39991,-4.3333 -3.91283,-2.68214 -6.63804,-5.26659 -7.87689,-10.95132 40.41845,-8.97845 63.68273,17.48458 76.59916,58.95685 z"
-         id="path1877-4"
-         sodipodi:nodetypes="cssssscc"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
+         style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:0.276418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.114276,195.01638 c 9.606194,-0.6823 18.910214,4.93808 23.701044,14.76348 -1.40556,-11.02735 -12.36645,-20.99407 -25.634507,-18.86639 -0.205515,0.0598 -1.247077,1.29513 -1.503757,2.7036 z"
+         id="path1703-8"
+         sodipodi:nodetypes="ccccc" />
       <path
-         style="display:inline;fill:url(#linearGradient2994);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 770.93353,646.10233 c 35.77529,31.32337 42.60803,56.44864 38.93671,90.73155 l 7.79208,7.59562 c 6.40253,-44.39778 -7.35248,-77.31423 -39.91852,-101.13045 z"
-         id="path1879-1"
-         sodipodi:nodetypes="ccccc"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:135.704px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdff9f;fill-opacity:1;stroke:none;stroke-width:0.706802;stroke-opacity:1"
-         x="806.62671"
-         y="778.2312"
-         id="text1650-8"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150"><tspan
-           sodipodi:role="line"
-           id="tspan1648-5"
-           x="806.62671"
-           y="778.2312"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:135.704px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';fill:#fdff9f;fill-opacity:1;stroke:none;stroke-width:0.706802;stroke-opacity:1">'21</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:65.0283px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdff9f;fill-opacity:1;stroke:none;stroke-width:0.338689;stroke-opacity:1"
-         x="530.20007"
-         y="727.33905"
-         id="text1616-9"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"><tspan
-           id="tspan1614-7"
-           x="530.20007"
-           y="727.33905"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:65.0283px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';fill:#fdff9f;fill-opacity:1;stroke:none;stroke-width:0.338689;stroke-opacity:1"
-           sodipodi:role="line">SUMMER</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:59.2789px;line-height:1.25;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f8e87c;fill-opacity:1;stroke:none;stroke-width:0.308744;stroke-opacity:1"
-         x="523.66003"
-         y="776.97223"
-         id="text1616-5-5"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150"><tspan
-           id="tspan1614-0-3"
-           x="523.66003"
-           y="776.97223"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:59.2789px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';fill:#f8e87c;fill-opacity:1;stroke:none;stroke-width:0.308744;stroke-opacity:1"
-           sodipodi:role="line">CODE JAM</tspan></text>
-      <g
-         id="g2701-8"
-         style="display:inline;stroke:none;stroke-opacity:1"
-         transform="matrix(0.93067977,0,0,0.93067977,16.186686,462.78929)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150">
-        <circle
-           style="fill:#ec4141;fill-opacity:1;stroke:none;stroke-width:0.647325;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
-           id="path1686-83"
-           cx="98.485825"
-           cy="213.27716"
-           r="22.610535" />
-        <path
-           style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:0.275984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 91.914306,199.2771 c -4.590957,13.66381 0.871056,29.91976 11.052384,36.1711 2.78862,-0.66514 4.15436,-0.44571 9.0477,-3.9945 3.17708,-14.23576 -4.77025,-28.08508 -15.524912,-33.92129 z"
-           id="path1690-1"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:0.276418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 97.114276,195.01638 c 9.606194,-0.6823 18.910214,4.93808 23.701044,14.76348 -1.40556,-11.02735 -12.36645,-20.99407 -25.634507,-18.86639 -0.205515,0.0598 -1.247077,1.29513 -1.503757,2.7036 z"
-           id="path1703-8"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.275984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 89.601874,198.00745 c -13.190443,8.98163 -9.061829,25.80044 -5.02564,33.12382 -7.212453,-3.99018 -16.183849,-24.40332 1.188419,-36.64413 1.201393,-0.0994 3.29919,0.17016 4.520673,0.6732 z"
-           id="path1705-9"
-           sodipodi:nodetypes="ccccc" />
-        <ellipse
-           style="fill:#f4863f;fill-opacity:1;stroke:none;stroke-width:0.208618;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path1688-6"
-           cx="25.652182"
-           cy="216.03029"
-           rx="4.0441532"
-           ry="2.7448874"
-           transform="rotate(-18.628981)" />
-      </g>
-      <path
-         style="display:inline;fill:url(#linearGradient2996);fill-opacity:1;stroke:none;stroke-width:0.368597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3210)"
-         d="m 772.80469,645.9289 c 6.09154,-2.49368 12.5457,-5.14792 18.45081,-9.45784 6.45264,-4.70955 8.47057,-12.09865 10.39478,-12.88227 2.20308,-0.89719 13.05105,-0.53178 16.88768,-3.3644 6.43093,-4.74806 8.68929,-12.91677 9.86109,-12.94034 4.09119,-0.0823 11.08595,-1.36765 14.24708,-3.22496 3.97309,-2.33438 6.78873,-4.65443 8.37378,-10.0793 -38.5593,-11.43464 -62.89327,12.63503 -78.21522,51.94911 z"
-         id="path1877-1-4"
-         sodipodi:nodetypes="cssssscc"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
-      <path
-         style="display:inline;fill:url(#linearGradient2998);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3230)"
-         d="m 557.6033,666.81164 c 12.25597,2.31741 28.28293,5.27704 42.9486,3.17679 17.72704,-2.53867 26.75315,-13.17681 31.44715,-14.13507 1.48843,-0.30386 15.43171,4.30972 34.18536,2.69841 9.22974,-0.79302 25.46187,-11.87015 29.34754,-12.2455 2.25055,-0.2174 20.08717,5.34321 38.9711,5.36089 14.92616,0.014 33.2809,-3.97799 39.56524,-5.59865 -75.79762,-42.42002 -163.76687,-12.58435 -216.46499,20.74313 z"
-         id="path1873-3"
-         sodipodi:nodetypes="cssssscc"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
-      <path
-         style="display:inline;fill:url(#linearGradient3000);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3200)"
-         d="m 982.26594,666.45859 c -8.17684,0.16866 -29.60206,-1.87536 -43.4813,-5.43731 -14.61077,-3.7497 -28.86901,-13.3508 -31.04919,-13.88902 -2.19073,-0.54084 -10.92463,4.93964 -25.24179,3.62973 -23.54344,-2.15405 -30.99482,-10.85712 -34.07368,-10.78595 -5.7524,0.13296 -13.02343,7.02004 -32.43412,8.60261 -19.41068,1.58257 -30.86224,-1.18622 -43.18117,-2.64975 46.92424,-32.31702 96.64967,-31.29838 145.84697,-17.28277 25.6301,7.30164 45.39324,23.30639 63.61428,37.81246 z"
-         id="path1873-6-3"
-         sodipodi:nodetypes="csssszcsc"
-         transform="matrix(0.93067977,0,0,0.93067977,-439.84762,-42.358722)"
-         inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
-         inkscape:export-xdpi="150"
-         inkscape:export-ydpi="150" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.275984px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 89.601874,198.00745 c -13.190443,8.98163 -9.061829,25.80044 -5.02564,33.12382 -7.212453,-3.99018 -16.183849,-24.40332 1.188419,-36.64413 1.201393,-0.0994 3.29919,0.17016 4.520673,0.6732 z"
+         id="path1705-9"
+         sodipodi:nodetypes="ccccc" />
+      <ellipse
+         style="fill:#f4863f;fill-opacity:1;stroke:none;stroke-width:0.208618;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1688-6"
+         cx="25.652182"
+         cy="216.03029"
+         rx="4.0441532"
+         ry="2.7448874"
+         transform="rotate(-18.628981)" />
     </g>
+    <path
+       style="display:inline;fill:url(#linearGradient2996);fill-opacity:1;stroke:none;stroke-width:0.368597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3210)"
+       d="m 772.80469,645.9289 c 6.09154,-2.49368 12.5457,-5.14792 18.45081,-9.45784 6.45264,-4.70955 8.47057,-12.09865 10.39478,-12.88227 2.20308,-0.89719 13.05105,-0.53178 16.88768,-3.3644 6.43093,-4.74806 8.68929,-12.91677 9.86109,-12.94034 4.09119,-0.0823 11.08595,-1.36765 14.24708,-3.22496 3.97309,-2.33438 6.78873,-4.65443 8.37378,-10.0793 -38.5593,-11.43464 -62.89327,12.63503 -78.21522,51.94911 z"
+       id="path1877-1-4"
+       sodipodi:nodetypes="cssssscc"
+       transform="matrix(0.93067977,0,0,0.93067977,-439.29643,-515.16063)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="display:inline;fill:url(#linearGradient2998);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3230)"
+       d="m 557.6033,666.81164 c 12.25597,2.31741 28.28293,5.27704 42.9486,3.17679 17.72704,-2.53867 26.75315,-13.17681 31.44715,-14.13507 1.48843,-0.30386 15.43171,4.30972 34.18536,2.69841 9.22974,-0.79302 25.46187,-11.87015 29.34754,-12.2455 2.25055,-0.2174 20.08717,5.34321 38.9711,5.36089 14.92616,0.014 33.2809,-3.97799 39.56524,-5.59865 -75.79762,-42.42002 -163.76687,-12.58435 -216.46499,20.74313 z"
+       id="path1873-3"
+       sodipodi:nodetypes="cssssscc"
+       transform="matrix(0.93067977,0,0,0.93067977,-439.29643,-515.16063)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="display:inline;fill:url(#linearGradient3000);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3200)"
+       d="m 982.26594,666.45859 c -8.17684,0.16866 -29.60206,-1.87536 -43.4813,-5.43731 -14.61077,-3.7497 -28.86901,-13.3508 -31.04919,-13.88902 -2.19073,-0.54084 -10.92463,4.93964 -25.24179,3.62973 -23.54344,-2.15405 -30.99482,-10.85712 -34.07368,-10.78595 -5.7524,0.13296 -13.02343,7.02004 -32.43412,8.60261 -19.41068,1.58257 -30.86224,-1.18622 -43.18117,-2.64975 46.92424,-32.31702 96.64967,-31.29838 145.84697,-17.28277 25.6301,7.30164 45.39324,23.30639 63.61428,37.81246 z"
+       id="path1873-6-3"
+       sodipodi:nodetypes="csssszcsc"
+       transform="matrix(0.93067977,0,0,0.93067977,-439.29643,-515.16063)"
+       inkscape:export-filename="/home/kosa/Desktop/pydis_summer_21.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
   </g>
 </svg>
