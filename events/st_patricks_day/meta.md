@@ -1,6 +1,6 @@
 ---
 start_date: March 15
-end_date: March 18
+end_date: March 17
 ---
 **Saint Patrick's Day**
 
