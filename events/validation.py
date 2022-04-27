@@ -7,7 +7,7 @@ but can and should also be ran locally.
 In order to run, install dependencies from 'events/requirements.txt'.
 
 We check that each event directory satisfies the following:
-* Contains 'banner.png', 'meta.md' and 'server_icons' with at least 1 file inside
+* Contains 'banner.png' or `banners/`, 'meta.md' and 'server_icons/' with at least 1 file inside
 * The 'meta.md' file either registers the event as fallback, or specifies the start and end dates
 * The end date must either be the same as the start date, or chronologically subsequent
 * The 'meta.md' file contains an event description between 1 and 2048 characters in length
@@ -56,18 +56,23 @@ def make_event(name: str, from_dir: Path) -> Event:
     """
     Construct an `Event` instance from `from_dir`.
 
-    This function performs all necessary validation to ensure that the event is configured properly. If an problem
+    This function performs all necessary validation to ensure that the event is configured properly. If a problem
     is encountered, `Misconfiguration` will be raised with an explanation.
 
     An `Event` instance is returned only if the event is entirely valid.
     """
     server_icons = Path(from_dir, "server_icons")
-    banner = Path(from_dir, "banner.png")
     meta = Path(from_dir, "meta.md")
+
+    banner_file = Path(from_dir, "banner.png")
+    banner_folder = Path(from_dir, "banners")
+
+    if banner_folder.is_dir() and banner_file.exists():
+        raise Misconfiguration("Banners must either be a single asset, or a directory, not both")
 
     asset_requirements = [
         ("server_icons", server_icons.is_dir()),
-        ("banner.png", banner.is_file()),
+        ("banner.png", banner_file.is_file() or banner_folder.is_dir()),
         ("meta.md", meta.is_file()),
     ]
     missing_assets = ", ".join(name for name, exists in asset_requirements if not exists)
@@ -79,6 +84,11 @@ def make_event(name: str, from_dir: Path) -> Event:
 
     if not icons:
         raise Misconfiguration("No files in 'server_icons'")
+
+    if banner_folder.is_dir():
+        banners = [banner for banner in banner_folder.iterdir() if banner.is_file()]
+        if not banners:
+            raise Misconfiguration("No files in the `banners` folder")
 
     try:
         meta_bytes = meta.read_bytes()
