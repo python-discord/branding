@@ -31,7 +31,7 @@ A description is required to exist, and must be at most 2048 characters in lengt
 
 ### `banners`
 
-Either a singular image asset (`banner.png`), or a directory (`banners/`) with 1 or more assets to be used as the guild banner while the event is active.
+Directory with 1 or more assets to be used as the guild banner while the event is active.
 
 If you're wondering about the desired dimensions, take a look at existing assets for reference.
 
@@ -53,7 +53,9 @@ Below is an example of a well configured event:
 │ │ ├── server_icons/
 │ │ │ ├── snowing.gif
 │ │ │ ├── festive.png
-│ │ ├── banner.png
+│ │ ├── banners/
+│ │ │ ├── green_and_red.png
+│ │ │ ├── raindeer.png
 │ │ ├── meta.md
 │ │ ├── reindeer.mp4
 ```
