@@ -1,6 +1,6 @@
 ---
-start_date: October 14
-end_date: October 31
+start_date: October 26
+end_date: November 1
 ---
 **Halloween**
 
