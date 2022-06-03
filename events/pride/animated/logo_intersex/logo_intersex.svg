@@ -7,7 +7,7 @@
 >
 <g id="flag" clip-path="url(#bg_clip)">
     <rect id="bg" fill="#ffd900" width="500" height="500" />
-    <circle id="circle" stroke="#7902aa" cx="250" cy="250" r="122.5" fill="none" stroke-width="41.67" />
+    <circle id="circle" stroke="#7902aa" cx="250" cy="250" r="196" fill="none" stroke-width="59" />
 </g>
 <g id="python_logo" transform="scale(1.1415525114155251141552511415525)">
     <path
