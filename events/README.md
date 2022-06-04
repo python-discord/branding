@@ -29,9 +29,9 @@ The markdown section of the meta file then contains the event's description. Des
 
 A description is required to exist, and must be at most 2048 characters in length to fit into a Discord embed.
 
-### `banner.png`
+### `banners`
 
-Singular image asset to be used as the guild banner while the event is active.
+Directory with 1 or more assets to be used as the guild banner while the event is active.
 
 If you're wondering about the desired dimensions, take a look at existing assets for reference.
 
@@ -53,7 +53,9 @@ Below is an example of a well configured event:
 │ │ ├── server_icons/
 │ │ │ ├── snowing.gif
 │ │ │ ├── festive.png
-│ │ ├── banner.png
+│ │ ├── banners/
+│ │ │ ├── green_and_red.png
+│ │ │ ├── raindeer.png
 │ │ ├── meta.md
 │ │ ├── reindeer.mp4
 ```
