@@ -123,8 +123,6 @@ def make_event(name: str, from_dir: Path) -> Event:
     except Exception as exc:
         raise Misconfiguration(f"Attribute 'end_date' with value '{end_date}' failed to parse: {exc}")
 
-    if not start_date <= end_date:
-        raise Misconfiguration("End date must be equal or subsequent to start date")
 
     return Event(name=name, fallback=False, start_date=start_date, end_date=end_date, description=description)
 
@@ -133,13 +131,12 @@ def active_days(event: Event) -> t.Iterator[date]:
     """
     Generate all days in which `event` is active.
 
+    All dates returned will be in the same year.
+
     This can only be called for non-fallback events. The fallback event does not have start and end dates.
     """
     if None in (event.start_date, event.end_date):
         raise RuntimeError("Cannot generate days: event does not have start and date!")
-
-    if not event.start_date <= event.end_date:
-        raise RuntimeError("Cannot generate days: start date does not precede end date!")
 
     state = event.start_date
     while True:
@@ -147,6 +144,8 @@ def active_days(event: Event) -> t.Iterator[date]:
         if state == event.end_date:
             break
         state += timedelta(days=1)
+        # Wrap around to the same year, so comparisons only compare day and month.
+        state = state.replace(year=ARBITRARY_YEAR)
 
 
 def find_collisions(events: t.List[Event]) -> t.Dict[date, t.List[Event]]:
