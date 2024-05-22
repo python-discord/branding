@@ -9,7 +9,6 @@ In order to run, install dependencies from 'events/requirements.txt'.
 We check that each event directory satisfies the following:
 * Contains 'meta.md', `banners/` and 'server_icons/' with at least 1 file inside each
 * The 'meta.md' file either registers the event as fallback, or specifies the start and end dates
-* The end date must either be the same as the start date, or chronologically subsequent
 * The 'meta.md' file contains an event description between 1 and 2048 characters in length
 
 If all events are set up correctly, we also validate that:
