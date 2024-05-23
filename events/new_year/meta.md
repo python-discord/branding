@@ -1,6 +1,6 @@
 ---
-start_date: December 26
-end_date: December 31
+start_date: December 29
+end_date: January 3
 ---
 **New Year**
 
