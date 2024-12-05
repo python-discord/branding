@@ -23,7 +23,7 @@ start_date: July 10
 end_date: July 20
 ```
 
-There must be exactly 1 fallback event, and 0 or more non-fallback events. Events cannot collide in time, and the end date must either be equal to the start date (1 day event) or chronologically subsequent. Both bounds are inclusive, and the format shown in the example above must be followed.
+There must be exactly 1 fallback event, and 0 or more non-fallback events. For single-day events, `end_date` must be equal to `start_date`. If `start_date` is a later day in the year than `end_date`, the event is interpreted as starting in one year and ending in the next. Both bounds are inclusive, and the format shown in the example above must be followed.
 
 The markdown section of the meta file then contains the event's description. Descriptions are made available directly in the Discord guild as embeds sent by the Python bot. For formatting, use Discord's watered down Markdown ~ keep in mind that e.g. the `#` symbol does not create a heading.
 
