@@ -1,6 +1,6 @@
 ---
-start_date: May 4
-end_date: May 4
+start_date: May 3
+end_date: May 3
 ---
 
 **Free Comic Book Day**
