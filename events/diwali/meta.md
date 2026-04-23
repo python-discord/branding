@@ -1,6 +1,6 @@
 ---
-start_date: October 20
-end_date: October 25
+start_date: November 6
+end_date: November 11
 ---
 **Diwali**
 
